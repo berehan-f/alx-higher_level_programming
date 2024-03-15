@@ -2,7 +2,7 @@
 import sys
 
 if __name__ == "__main__":
-    """Print the addition of all arguments."""
+    """Print the sum of all arguments."""
 
     total = 0
     for i in range(len(sys.argv) - 1):
